@@ -10,20 +10,20 @@
 
 ##### O presente trabalho aborda a modelagem e controle e compreende a simulação em software e implementação física do robô, um modelo matemático em representação por espaço de estados foi levantado para descrever o comportamento do robô de eixo único em sistema de pêndulo invertido, e um controlador PID foi implementado em topologia de problema do regulador com objetivo de controlar a posição vertical do pêndulo invertido a fim de que este se mantenha estável. O robô foi projetado e construído tendo um motor atuando em cada roda, gerenciados por microcontroladores.
   
-### 3 - Resumo das arquiteturas
+###### 3 - Resumo das arquiteturas
 
   O projeto foi composto pelos seguintes itens:
   
-  1.  Hardware utilizado
-    1. Arduino UNO
-    2. Servo Motor de Rotação Contínua
-    3. Acelerômetro e Giroscopio MPU-6050
-    4. Drive Motor Ponte H
-    5. Peças de acrílico para montagem do 
+  ##### 1.  Hardware utilizado
+  ###### 1. Arduino UNO
+  ###### 2. Servo Motor de Rotação Contínua
+  ###### 3. Acelerômetro e Giroscopio MPU-6050
+  ###### 4. Drive Motor Ponte H
+  ###### 5. Peças de acrílico para montagem do 
 
 
-  2.  Software
-    1. Software do Arduino 
+  ##### 2.  Software
+  ###### 1. Software do Arduino 
   
 ### 4 - Resumo dos Resultados
 
