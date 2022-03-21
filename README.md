@@ -29,7 +29,8 @@
 
   ##### Por conta da dificuldade existente dentro desse projeto, como o calculo do acelerômetro e do giroscópio, além da dificuldade do robô conseguir ficar em pé com duas rodas, foi um pouco dificil a calibragem desses sensores. O robô conseguiu se equilibrar por uns segundos, e depois caia. Mas os resultados são promissores.
 
-  
+  ![alt text](https://github.com/micasmarques/sistemas-embarcados-projeto/blob/main/results/imagem1.jfif)
+  ![alt text](https://github.com/micasmarques/sistemas-embarcados-projeto/blob/main/results/imagem2.jfif)
 
 ### 5 - Grupo
 
