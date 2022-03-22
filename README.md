@@ -4,7 +4,7 @@
 
 ### 1 - Descrição do projeto:
 
-##### O robô desenvolvido neste projeto baseia-se no princípio do pêndulo invertido, tratando-se de um robô de duas rodas em eixo único com corpo posicionado sobre este eixo, o qual deve se auto balancear em relação a posição vertical. 
+##### Este projeto visa à construção de um robô pêndulo invertido, o qual consiste em uma estrutura de dois andares que sobre duas rodas se equilibra. O robô segue o princípio físico do pêndulo invertido, ou seja, os motores irão atuar em cada roda para corrigir a inclinação medida por sensores na parte superior do robô, tentando manter o centro de massa em zero grau em relação ao eixo do robô.
 
 ### 2 - Objetivos
 
@@ -24,13 +24,16 @@
 
   ##### 2.  Software
   ###### 1. Software do Arduino 
+
+#### Diagrama de Blocos
+![alt text](https://github.com/micasmarques/sistemas-embarcados-projeto/blob/main/diagrama-circuito/Equilibrist_Robot.png)
   
 ### 4 - Resumo dos Resultados
 
   ##### Por conta da dificuldade existente dentro desse projeto, como o calculo do acelerômetro e do giroscópio, além da dificuldade do robô conseguir ficar em pé com duas rodas, foi um pouco dificil a calibragem desses sensores. O robô conseguiu se equilibrar por uns segundos, e depois caia. Mas os resultados são promissores.
 
-  ![alt text](https://github.com/micasmarques/sistemas-embarcados-projeto/blob/main/results/imagem1.jfif)
-  ![alt text](https://github.com/micasmarques/sistemas-embarcados-projeto/blob/main/results/imagem2.jfif)
+  ![alt text](https://github.com/micasmarques/sistemas-embarcados-projeto/blob/main/results/images/imagem1.jfif)
+  ![alt text](https://github.com/micasmarques/sistemas-embarcados-projeto/blob/main/results/images/imagem2.jfif)
 
 ### 5 - Grupo
 
