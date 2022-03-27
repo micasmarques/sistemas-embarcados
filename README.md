@@ -19,7 +19,7 @@
   ###### 2. Servo Motor de Rotação Contínua
   ###### 3. Acelerômetro e Giroscopio MPU-6050
   ###### 4. Drive Motor Ponte H
-  ###### 5. Peças de acrílico para montagem do 
+  ###### 5. Peças de acrílico para montagem do Robô
 
 
   ##### 2.  Software
